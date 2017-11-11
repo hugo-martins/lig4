@@ -1,0 +1,21 @@
+|Objetivo do Jogo| Posicionar quatro peças da mesma cor de forma adjacente formando uma linha,coluna ou diagonal.
+
+|Regras do jogo|
+
+- São necessários dois jogadores (um deles será o computador), e cada um deles deve escolher umacor.
+- O tabuleiro consiste de uma grade com 6 linhas e 7 colunas, totalizando 42 casas.
+- Cada jogador começa com 21 peças da cor que escolheu e com pontuação zero.
+- Os jogadores deverão, alternadamente, colocar uma ficha por vez em uma das colunas do tabuleiro.
+A ficha cairá verticalmente, ocupando a casa mais baixa disponível.
+
+- Cada jogador deverá tentar posicionar suas peças de modo que 4 delas fiquem unidas formando
+uma linha, uma coluna ou uma diagonal. Não deve haver separação entre as peças.
+- Sempre que um jogador conseguir posicionar três de suas peças unidas, ele ganhará 200 pontos.
+
+- O jogo termina:
+- quando um dos jogadores unir quatro de suas peças. Esse jogador será o vencedor.
+- a qualquer momento, caso um dos jogadores deseje sair. Nesse caso, vencerá o jogador que
+tiver acumulado mais pontos. Caso a pontuação seja igual, será decretado um empate.
+
+- quando não houver mais casas livres no tabuleiro. Nesse caso, vencerá o jogador que tiver
+acumulado mais pontos. Caso a pontuação seja igual, será decretado um empate.
